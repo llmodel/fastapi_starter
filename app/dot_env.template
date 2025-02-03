@@ -1,0 +1,6 @@
+LOG_FILE='fastapi.log'
+LOG_NAME='FASTAPI'
+API_KEY='3ls.b#1kJk9L...'
+OPENAI_ORG_ID=org-xxxyyyzzz...
+OPENAI_API_KEY=sk-zzzyyyxxx...
+DATABASE_URL="sqlite:///database/sqlite.db"
