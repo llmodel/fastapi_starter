@@ -8,8 +8,8 @@ Note: __init__.py is included in each subdirectory, but not shown for the clarit
 .
 ├── README.md
 ├── requirements.txt
-├── .env                  # Environment vaiables
-├── [.env.example]        # Environment template
+├── .env                  # Environmental vaiables
+├── dot_env.template      # Environmental variable template
 ├── tests                 # All test files
 │   ├── root.http         # root endpoint http test client 
 │   ├── [conftest.py]
